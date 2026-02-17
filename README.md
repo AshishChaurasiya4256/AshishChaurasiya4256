@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Chaurasia</h1>
+<h1 align="center">Hi 👋, I'm Ashish Chaurasiya</h1>
 <h3 align="center">Power BI Developer | Aspiring Data Engineer | Cloud Enthusiast</h3>
 
 ---
