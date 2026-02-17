@@ -1,4 +1,4 @@
-![Ashish_Banner](Ashish_Banner.png)
+![Ashish_Banner1](Ashish_Banner1.png)
 <h1 align="center">Hi 👋, I'm Ashish Chaurasiya</h1>
 <h3 align="center">Power BI Developer | Aspiring Data Engineer | Cloud Enthusiast</h3>
 
